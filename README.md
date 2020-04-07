@@ -1,4 +1,4 @@
-# Keras-Deeplearning-Quarntine-Project
+# Keras-Deeplearning-Quarantine-Project-Part1
 
 I worked on this project to brush up my skills in Keras. 
 Wrote all the code from scratch and trained multi class deeplearning model end to end on 10 class image dataset.
