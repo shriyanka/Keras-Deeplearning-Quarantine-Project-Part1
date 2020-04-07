@@ -7,4 +7,4 @@ playing with hyperparameters. I focused not to use transfer learning for it and 
 
 Accuracy achieved - 82.8%
 
-For boosted accuracy checkout my part 2 here - <a href="https://github.com/shriyanka/Keras-Deeplearning-Quarantine-Project-Part2">Keras-Deeplearning-Quarantine-Project-Part2</a>
+For boosted accuracy checkout my part 2 here - <a href="https://github.com/shriyanka/Keras-Deeplearning-Quarantine-Project-Part2"><b>Keras-Deeplearning-Quarantine-Project-Part2</b></a>
